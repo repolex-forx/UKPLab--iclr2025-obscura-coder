@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/iclr2025-obscura-coder/commit/e7ae88a77eb5946e81838cfacf2929575c9ef4fa",
       "git:hexsha": "e7ae88a77eb5946e81838cfacf2929575c9ef4fa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
